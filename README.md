@@ -1,6 +1,7 @@
-# Application-Boilerplate
 
-lib/
+# Project Title
+
+lib
 │
 ├── main.dart                # Entry point for the app
 ├── src/
@@ -10,6 +11,7 @@ lib/
 │   ├── utils/               # Utility classes like validations
 │   ├── widgets/             # Reusable widgets
 │   └── theme/               # App's theme and styling
-├── assets/                  # Assets like images, fonts, etc.
+├── assets/                  # Assets like images fonts, etc.
 │
-└── pubspec.yaml             # Project dependencies and settings
+└── pubspec.yaml             # Project dependencies
+
