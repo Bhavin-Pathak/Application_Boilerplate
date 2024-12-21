@@ -1,6 +1,6 @@
+# Application-Boilerplate's For Flutter Application Developers
 
-# Project Title
-
+```bash
 lib
 │
 ├── main.dart                # Entry point for the app
@@ -14,4 +14,5 @@ lib
 ├── assets/                  # Assets like images fonts, etc.
 │
 └── pubspec.yaml             # Project dependencies
+```
 
