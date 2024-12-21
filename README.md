@@ -1,4 +1,4 @@
-# Application-Boilerplate's For Flutter Application Developers
+# Application-Boilerplate's For Flutter Developers
 
 ```bash
 lib
