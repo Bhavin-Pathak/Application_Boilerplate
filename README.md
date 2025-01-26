@@ -16,3 +16,44 @@ lib
 └── pubspec.yaml             # Project dependencies
 ```
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  https://github.com/Bhavin-Pathak/Application_Boilerplate.git
+```
+
+Go to the project directory
+
+```bash
+  cd Application_Boilerplate
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Start the server
+
+```bash
+  flutter run
+```
+
+
+## Author
+
+- [@Bhavinpathak](https://www.github.com/Bhavin-Pathak)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
